@@ -1,0 +1,55 @@
+.service,.arrivals,.product {
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-size: 60px;
+    font-weight: 500;
+    color: #DC143C; 
+}
+figcaption{
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 500px;
+}
+.head{text-align: center;
+    text-transform: capitalize;
+    font-style: bold;
+    /* margin-top: 80px; */
+    /* margin-bottom: 50px; */
+    font-size: 30px;
+    color: #DC143C; 
+}
+
+
+.body{
+    background-image:inherit ;
+}
+ 
+.navbar{
+    background-color: #DC143C;
+}
+.nav-item{
+    font-weight: 800;
+}
+
+.main{
+    margin-top: 200px;
+}
+.main2{
+    margin-top: 100px;
+}
+.btn{
+    background-color: #DC143C !important;
+
+}
+.arr{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.slider{
+    margin-top: 150px;
+}
